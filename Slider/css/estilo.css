@@ -1,0 +1,33 @@
+body{
+    
+    font-family: Calibri;
+    padding: 10px 20px;
+}
+
+h1 {
+	color: #FFFFFF;
+	background-color: #ffbd33;
+	padding: 10px;
+	border-radius:0 20px;
+}
+
+a {
+	background-color: #ffbd33;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 3rem;
+	border-radius: .5rem;
+	padding: 1.5rem;
+}
+
+a:hover {
+	background-color: aquamarine;
+}
+
+.boton {
+	display: flex;
+	justify-content: center;
+	margin-top: 10rem;
+	font-weight: bold;
+	padding: 2rem;
+}
